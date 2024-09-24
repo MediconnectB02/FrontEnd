@@ -1,0 +1,190 @@
+.certificaciones {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.certificaciones .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1018px;
+  position: relative;
+}
+
+.certificaciones .navigation-footer {
+  position: absolute;
+  width: 1440px;
+  height: 264px;
+  top: 754px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+/* Items de contacto */
+.certificaciones .items,
+.certificaciones .items-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--variable-collection-spacing-s);
+  position: absolute;
+  top: 48px;
+}
+
+.certificaciones .items {
+  width: 231px;
+  left: 911px;
+}
+
+.certificaciones .items-2 {
+  width: 187px;
+  left: 1173px;
+}
+
+/* Estilos de texto */
+.certificaciones .text-wrapper,
+.certificaciones .text-wrapper-2,
+.certificaciones .text-wrapper-3 {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--small-text-font-family);
+  font-weight: var(--small-text-font-weight);
+  font-size: var(--small-text-font-size);
+  letter-spacing: var(--small-text-letter-spacing);
+  line-height: var(--small-text-line-height);
+}
+
+.certificaciones .text-wrapper {
+  color: #000000;
+}
+
+.certificaciones .text-wrapper-2 {
+  color: #444444;
+}
+
+.certificaciones .text-wrapper-3 {
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #444444;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* Títulos y encabezados */
+.certificaciones .text-wrapper-4 {
+  position: absolute;
+  height: 36px;
+  top: 51px;
+  left: 80px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #000000;
+  font-size: var(--subheading-font-size);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+}
+
+/* Redes sociales y botones */
+.certificaciones .social-icons {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: var(--variable-collection-spacing-XS);
+  position: absolute;
+  top: 176px;
+  left: 80px;
+}
+
+.certificaciones .buttons-icon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+}
+
+/* Estilos de botón */
+.certificaciones .button {
+  all: unset;
+  box-sizing: border-box;
+  background-color: #802626;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 14px 24px;
+  position: relative;
+  border-radius: 8px;
+  box-shadow: var(--button-shadow);
+}
+
+.certificaciones .ingresar {
+  font-family: var(--small-text-font-family);
+  font-weight: var(--small-text-font-weight);
+  color: #ffffff;
+  font-size: var(--small-text-font-size);
+  line-height: var(--small-text-line-height);
+  white-space: nowrap;
+}
+
+/* Grupos y secciones */
+.certificaciones .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 289px;
+  top: 0;
+  left: 0;
+}
+
+/* Títulos de la página */
+.certificaciones .page-title {
+  display: flex;
+  flex-direction: column;
+  width: 1270px;
+  align-items: center;
+  gap: 24px;
+  position: absolute;
+  top: 212px;
+  left: 85px;
+  background-color: #ffffff;
+}
+
+.certificaciones .portal-de-citas-m {
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #444444;
+  font-size: 64px;
+  text-align: center;
+}
+
+/* Secciones de descarga */
+.certificaciones .navigation-pill,
+.certificaciones .title-wrapper,
+.certificaciones .navigation-pill-2 {
+  display: flex;
+  width: 628px;
+  height: 61px;
+  align-items: center;
+  gap: var(--size-space-200);
+  padding: var(--size-space-200);
+  background-color: #26806380;
+  border-radius: var(--size-radius-200);
+}
+
+.certificaciones .download,
+.certificaciones .download-2,
+.certificaciones .download-3 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 374px;
+}
+
+.certificaciones .download-2 {
+  top: 484px;
+}
+
+.certificaciones .download-3 {
+  top: 570px;
+}

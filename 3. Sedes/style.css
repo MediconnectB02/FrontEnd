@@ -1,0 +1,457 @@
+.sedes {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sedes .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2172px;
+  position: relative;
+}
+
+.sedes .navigation-footer {
+  height: 264px;
+  top: 1908px;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.sedes .items {
+  width: 231px;
+  left: 911px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--variable-collection-spacing-s);
+  position: absolute;
+  top: 48px;
+}
+
+.sedes .text-wrapper {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--small-text-font-family);
+  font-weight: var(--small-text-font-weight);
+  color: #000000;
+  font-size: var(--small-text-font-size);
+  letter-spacing: var(--small-text-letter-spacing);
+  line-height: var(--small-text-line-height);
+  font-style: var(--small-text-font-style);
+}
+
+.sedes .text-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--small-text-font-family);
+  font-weight: var(--small-text-font-weight);
+  color: #444444;
+  font-size: var(--small-text-font-size);
+  letter-spacing: var(--small-text-letter-spacing);
+  line-height: var(--small-text-line-height);
+  font-style: var(--small-text-font-style);
+}
+
+.sedes .text-wrapper-3 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #444444;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.sedes .items-2 {
+  width: 187px;
+  left: 1173px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--variable-collection-spacing-s);
+  position: absolute;
+  top: 48px;
+}
+
+.sedes .text-wrapper-4 {
+  position: absolute;
+  height: 36px;
+  top: 51px;
+  left: 80px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #000000;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+  font-style: var(--subheading-font-style);
+}
+
+.sedes .social-icons {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: var(--variable-collection-spacing-XS);
+  position: absolute;
+  top: 176px;
+  left: 80px;
+}
+
+.sedes .buttons-icon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+}
+
+.sedes .icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  top: 8px;
+  left: 8px;
+}
+
+.sedes .img {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 2px;
+  left: 2px;
+}
+
+.sedes .icon-2 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 3px;
+  left: 3px;
+}
+
+.sedes .icon-3 {
+  position: absolute;
+  width: 20px;
+  height: 14px;
+  top: 5px;
+  left: 2px;
+}
+
+.sedes .divider {
+  position: absolute;
+  width: 1280px;
+  height: 1px;
+  top: 0;
+  left: 80px;
+  object-fit: cover;
+}
+
+.sedes .navigation {
+  height: 164px;
+  top: 0;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.sedes .navbar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--variable-collection-spacing-m);
+  position: absolute;
+  top: 56px;
+  left: 624px;
+}
+
+.sedes .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #000000;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-font-style);
+}
+
+.sedes .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #802626;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 33px;
+  white-space: nowrap;
+}
+
+.sedes .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 14px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #802626;
+  border-radius: 8px;
+  box-shadow: var(--button-shadow);
+}
+
+.sedes .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--small-text-font-family);
+  font-weight: var(--small-text-font-weight);
+  color: #ffffff;
+  font-size: var(--small-text-font-size);
+  letter-spacing: var(--small-text-letter-spacing);
+  line-height: var(--small-text-line-height);
+  white-space: nowrap;
+  font-style: var(--small-text-font-style);
+}
+
+.sedes .medi-connect {
+  position: absolute;
+  height: 90px;
+  top: 36px;
+  left: 158px;
+  font-family: "Kodchasan-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 90px;
+  white-space: nowrap;
+}
+
+.sedes .span {
+  color: #268063;
+}
+
+.sedes .text-wrapper-8 {
+  color: #802626;
+}
+
+.sedes .logo {
+  position: absolute;
+  width: 109px;
+  height: 106px;
+  top: 29px;
+  left: 37px;
+  object-fit: cover;
+}
+
+.sedes .copy {
+  display: flex;
+  flex-direction: column;
+  width: 844px;
+  align-items: flex-start;
+  gap: 40px;
+  position: absolute;
+  top: 226px;
+  left: 298px;
+}
+
+.sedes .page-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.sedes .text-wrapper-9 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #268063;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: -1.28px;
+  line-height: normal;
+}
+
+.sedes .text-wrapper-10 {
+  width: 386px;
+  top: 816px;
+  left: 214px;
+  text-align: center;
+  position: absolute;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #802626;
+  font-size: 40px;
+  letter-spacing: -0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sedes .text-wrapper-11 {
+  width: 439px;
+  top: 816px;
+  left: 811px;
+  text-align: center;
+  position: absolute;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #802626;
+  font-size: 40px;
+  letter-spacing: -0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sedes .text-wrapper-12 {
+  width: 386px;
+  top: 1316px;
+  left: 778px;
+  position: absolute;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #802626;
+  font-size: 40px;
+  letter-spacing: -0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sedes .text-wrapper-13 {
+  position: absolute;
+  width: 386px;
+  top: 1363px;
+  left: 778px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #802626;
+  font-size: 30px;
+  letter-spacing: -0.6px;
+  line-height: normal;
+}
+
+.sedes .calle-bogot {
+  position: absolute;
+  width: 464px;
+  top: 1436px;
+  left: 778px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: -0.6px;
+  line-height: 45px;
+}
+
+.sedes .text-wrapper-14 {
+  letter-spacing: -0.18px;
+}
+
+.sedes .text-wrapper-15 {
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: -0.18px;
+}
+
+.sedes .overlap-group {
+  width: 591px;
+  height: 428px;
+  top: 369px;
+  left: 104px;
+  background-image: url(./img/image.png);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.sedes .map-pin {
+  position: absolute;
+  width: 48px;
+  height: 56px;
+  top: 127px;
+  left: 238px;
+}
+
+.sedes .overlap {
+  width: 591px;
+  height: 428px;
+  top: 369px;
+  left: 744px;
+  background-image: url(./img/map-maker-medell-n-antioquia-colombia-standard.png);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.sedes .map-pin-2 {
+  top: 269px;
+  left: 139px;
+  position: absolute;
+  width: 48px;
+  height: 56px;
+}
+
+.sedes .carrera {
+  position: absolute;
+  top: 887px;
+  left: 168px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: -0.6px;
+  line-height: normal;
+}
+
+.sedes .carrera-b-a {
+  position: absolute;
+  top: 880px;
+  left: 808px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: -0.6px;
+  line-height: normal;
+}
+
+.sedes .map-pin-wrapper {
+  width: 610px;
+  height: 589px;
+  top: 1194px;
+  left: 120px;
+  background-image: url(./img/map-maker-bogot-colombia-standard.png);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.sedes .map-pin-3 {
+  top: 212px;
+  left: 305px;
+  position: absolute;
+  width: 48px;
+  height: 56px;
+}

@@ -1,0 +1,1373 @@
+.gest-citas {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.gest-citas .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2362px;
+  position: relative;
+}
+
+.gest-citas .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 530px;
+  top: 829px;
+  left: 0;
+}
+
+.gest-citas .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 494px;
+  top: 0;
+  left: 0;
+}
+
+.gest-citas .line {
+  position: absolute;
+  width: 886px;
+  height: 1px;
+  top: 236px;
+  left: 554px;
+  object-fit: cover;
+}
+
+.gest-citas .img {
+  position: absolute;
+  width: 886px;
+  height: 1px;
+  top: 369px;
+  left: 554px;
+  object-fit: cover;
+}
+
+.gest-citas .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 444px;
+  top: 0;
+  left: 0;
+}
+
+.gest-citas .header-cell {
+  display: flex;
+  width: 48px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 74px;
+  left: 324px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #e0e0e0;
+}
+
+.gest-citas .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #666666;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .cell {
+  display: flex;
+  flex-direction: column;
+  width: 48px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 66px;
+  left: 204px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #e0e0e0;
+}
+
+.gest-citas .inner {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.gest-citas .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .rectangle {
+  width: 407px;
+  height: 340px;
+  top: 104px;
+  position: absolute;
+  left: 0;
+}
+
+.gest-citas .text-wrapper-3 {
+  position: absolute;
+  width: 817px;
+  top: 0;
+  left: 45px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #802626;
+  font-size: 50px;
+  letter-spacing: -1px;
+  line-height: normal;
+}
+
+.gest-citas .line-2 {
+  position: absolute;
+  width: 708px;
+  height: 19px;
+  top: 27px;
+  left: 732px;
+}
+
+.gest-citas .text-wrapper-4 {
+  position: absolute;
+  top: 114px;
+  left: 35px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #802626;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .arrow-left {
+  left: 312px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 111px;
+}
+
+.gest-citas .arrow-right {
+  left: 342px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 111px;
+}
+
+.gest-citas .group {
+  position: absolute;
+  width: 336px;
+  height: 272px;
+  top: 143px;
+  left: 36px;
+}
+
+.gest-citas .div-wrapper {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 111px;
+  left: 454px;
+  background-color: #802626;
+  border-radius: 50px;
+}
+
+.gest-citas .text-wrapper-5 {
+  position: absolute;
+  width: 90px;
+  top: 19px;
+  left: 5px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .overlap-3 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 252px;
+  left: 454px;
+  background-color: #268063;
+  border-radius: 50px;
+}
+
+.gest-citas .overlap-4 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 394px;
+  left: 454px;
+  background-color: #802626;
+  border-radius: 50px;
+}
+.gest-citas {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.gest-citas .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2362px;
+  position: relative;
+}
+
+.gest-citas .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 530px;
+  top: 829px;
+  left: 0;
+}
+
+.gest-citas .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 494px;
+  top: 0;
+  left: 0;
+}
+
+.gest-citas .line {
+  position: absolute;
+  width: 886px;
+  height: 1px;
+  top: 236px;
+  left: 554px;
+  object-fit: cover;
+}
+
+.gest-citas .img {
+  position: absolute;
+  width: 886px;
+  height: 1px;
+  top: 369px;
+  left: 554px;
+  object-fit: cover;
+}
+
+.gest-citas .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 444px;
+  top: 0;
+  left: 0;
+}
+
+.gest-citas .header-cell {
+  display: flex;
+  width: 48px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 74px;
+  left: 324px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #e0e0e0;
+}
+
+.gest-citas .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #666666;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .cell {
+  display: flex;
+  flex-direction: column;
+  width: 48px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 66px;
+  left: 204px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #e0e0e0;
+}
+
+.gest-citas .inner {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.gest-citas .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .rectangle {
+  width: 407px;
+  height: 340px;
+  top: 104px;
+  position: absolute;
+  left: 0;
+}
+
+.gest-citas .text-wrapper-3 {
+  position: absolute;
+  width: 817px;
+  top: 0;
+  left: 45px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #802626;
+  font-size: 50px;
+  letter-spacing: -1px;
+  line-height: normal;
+}
+
+.gest-citas .line-2 {
+  position: absolute;
+  width: 708px;
+  height: 19px;
+  top: 27px;
+  left: 732px;
+}
+
+.gest-citas .text-wrapper-4 {
+  position: absolute;
+  top: 114px;
+  left: 35px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #802626;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .arrow-left {
+  left: 312px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 111px;
+}
+
+.gest-citas .arrow-right {
+  left: 342px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 111px;
+}
+
+.gest-citas .group {
+  position: absolute;
+  width: 336px;
+  height: 272px;
+  top: 143px;
+  left: 36px;
+}
+
+.gest-citas .div-wrapper {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 111px;
+  left: 454px;
+  background-color: #802626;
+  border-radius: 50px;
+}
+
+.gest-citas .text-wrapper-5 {
+  position: absolute;
+  width: 90px;
+  top: 19px;
+  left: 5px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .overlap-3 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 252px;
+  left: 454px;
+  background-color: #268063;
+  border-radius: 50px;
+}
+
+.gest-citas .overlap-4 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 394px;
+  left: 454px;
+  background-color: #802626;
+  border-radius: 50px;
+}
+
+.gest-citas .text-wrapper-6 {
+  position: absolute;
+  width: 112px;
+  top: 130px;
+  left: 559px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #802626;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.gest-citas .text-wrapper-7 {
+  position: absolute;
+  width: 160px;
+  top: 106px;
+  left: 732px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #802626;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .text-wrapper-8 {
+  top: 271px;
+  left: 559px;
+  color: #268063;
+  position: absolute;
+  width: 112px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.gest-citas .text-wrapper-9 {
+  top: 412px;
+  left: 554px;
+  color: #802626;
+  position: absolute;
+  width: 112px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.gest-citas .especialidad {
+  top: 106px;
+  position: absolute;
+  width: 304px;
+  left: 902px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .text-wrapper-10 {
+  position: absolute;
+  width: 160px;
+  top: 179px;
+  left: 732px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #802626;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .especialidad-2 {
+  top: 172px;
+  position: absolute;
+  width: 304px;
+  left: 902px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .text-wrapper-11 {
+  top: 393px;
+  left: 732px;
+  color: #802626;
+  position: absolute;
+  width: 160px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .especialidad-3 {
+  top: 382px;
+  position: absolute;
+  width: 304px;
+  left: 902px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .group-2 {
+  display: flex;
+  width: 330px;
+  height: 260px;
+  position: absolute;
+  top: 146px;
+  left: 37px;
+  align-items: center;
+  justify-content: center;
+}
+
+.gest-citas .image {
+  height: 260px;
+  object-fit: cover;
+  width: 330px;
+}
+
+.gest-citas .flex-col {
+  width: 383px;
+  height: 54px;
+  position: absolute;
+  top: 143px;
+  left: 462px;
+}
+
+.gest-citas .group-3 {
+  display: flex;
+  width: 383px;
+  height: 45px;
+  position: absolute;
+  top: 147px;
+  left: 462px;
+  align-items: center;
+  justify-content: center;
+}
+
+.gest-citas .group-4 {
+  position: absolute;
+  width: 313px;
+  height: 193px;
+  top: 194px;
+  left: 462px;
+}
+
+.gest-citas .group-5 {
+  display: flex;
+  width: 313px;
+  height: 193px;
+  position: absolute;
+  top: 195px;
+  left: 462px;
+  align-items: center;
+  justify-content: center;
+}
+
+.gest-citas .div-2 {
+  height: 193px;
+  background-color: #d9d9d9;
+  width: 313px;
+}
+
+.gest-citas .input {
+  display: flex;
+  width: 345px;
+  height: 45px;
+  position: absolute;
+  top: 259px;
+  left: 462px;
+  background-color: #d9d9d9;
+  align-items: center;
+  justify-content: center;
+}
+
+.gest-citas .input-text {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.gest-citas .text-wrapper-14 {
+  position: relative;
+  flex: 1;
+  margin-top: -0.5px;
+  font-family: var(--single-line-body-base-font-family);
+  font-weight: var(--single-line-body-base-font-weight);
+  color: var(--color-text-default-default);
+  font-size: var(--single-line-body-base-font-size);
+  letter-spacing: var(--single-line-body-base-letter-spacing);
+  line-height: var(--single-line-body-base-line-height);
+  font-style: var(--single-line-body-base-font-style);
+}
+
+.gest-citas .chevron-down {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.gest-citas .navigation-footer {
+  position: absolute;
+  width: 1440px;
+  height: 264px;
+  top: 2098px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.gest-citas .items {
+  display: flex;
+  flex-direction: column;
+  width: 231px;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--variable-collection-spacing-s);
+  position: absolute;
+  top: 48px;
+  left: 911px;
+}
+
+.gest-citas .text-wrapper-15 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--small-text-font-family);
+  font-weight: var(--small-text-font-weight);
+  color: #000000;
+  font-size: var(--small-text-font-size);
+  letter-spacing: var(--small-text-letter-spacing);
+  line-height: var(--small-text-line-height);
+  font-style: var(--small-text-font-style);
+}
+
+.gest-citas .text-wrapper-16 {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--small-text-font-family);
+  font-weight: var(--small-text-font-weight);
+  color: #444444;
+  font-size: var(--small-text-font-size);
+  letter-spacing: var(--small-text-letter-spacing);
+  line-height: var(--small-text-line-height);
+  font-style: var(--small-text-font-style);
+}
+
+.gest-citas .text-wrapper-17 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #444444;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.gest-citas .items-2 {
+  display: flex;
+  flex-direction: column;
+  width: 187px;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--variable-collection-spacing-s);
+  position: absolute;
+  top: 48px;
+  left: 1173px;
+}
+
+.gest-citas .text-wrapper-18 {
+  position: absolute;
+  height: 36px;
+  top: 51px;
+  left: 80px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #000000;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+  font-style: var(--subheading-font-style);
+}
+
+.gest-citas .social-icons {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: var(--variable-collection-spacing-XS);
+  position: absolute;
+  top: 176px;
+  left: 80px;
+}
+
+.gest-citas .buttons-icon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+}
+
+.gest-citas .icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  top: 8px;
+  left: 8px;
+}
+
+.gest-citas .icon-2 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 2px;
+  left: 2px;
+}
+
+.gest-citas .icon-3 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 3px;
+  left: 3px;
+}
+
+.gest-citas .icon-4 {
+  position: absolute;
+  width: 20px;
+  height: 14px;
+  top: 5px;
+  left: 2px;
+}
+
+.gest-citas .divider {
+  position: absolute;
+  width: 1280px;
+  height: 1px;
+  top: 0;
+  left: 80px;
+  object-fit: cover;
+}
+
+.gest-citas .overlap-5 {
+  position: absolute;
+  width: 1440px;
+  height: 289px;
+  top: 0;
+  left: 0;
+}
+
+.gest-citas .page-title {
+  display: flex;
+  flex-direction: column;
+  width: 1270px;
+  align-items: center;
+  gap: 24px;
+  position: absolute;
+  top: 212px;
+  left: 85px;
+  background-color: #ffffff;
+}
+
+.gest-citas .portal-de-citas-m {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #444444;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: -1.28px;
+  line-height: normal;
+}
+
+.gest-citas .navigation {
+  position: absolute;
+  width: 1440px;
+  height: 222px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.gest-citas .items-3 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--variable-collection-spacing-m);
+  position: absolute;
+  top: 56px;
+  left: 1209px;
+}
+
+.gest-citas .ingresar-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  padding: 14px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #802626;
+  box-shadow: var(--button-shadow);
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 8px;
+}
+
+.gest-citas .ingresar {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--small-text-font-family);
+  font-weight: var(--small-text-font-weight);
+  color: #ffffff;
+  font-size: var(--small-text-font-size);
+  letter-spacing: var(--small-text-letter-spacing);
+  line-height: var(--small-text-line-height);
+  white-space: nowrap;
+  font-style: var(--small-text-font-style);
+}
+
+.gest-citas .items-4 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--variable-collection-spacing-m);
+  position: absolute;
+  top: 112px;
+  left: 1263px;
+}
+
+.gest-citas .button-6 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  padding: 14px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #268063;
+  box-shadow: var(--button-shadow);
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 8px;
+}
+
+.gest-citas .group-2 {
+  position: absolute;
+  width: 659px;
+  height: 170px;
+  top: 26px;
+  left: 392px;
+}
+
+.gest-citas .medi-connect {
+  position: absolute;
+  height: 105px;
+  top: 33px;
+  left: 180px;
+  font-family: "Kodchasan-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: 105px;
+  white-space: nowrap;
+}
+
+.gest-citas .span {
+  color: #268063;
+}
+
+.gest-citas .text-wrapper-19 {
+  color: #802626;
+}
+
+.gest-citas .rectangle-2 {
+  width: 170px;
+  height: 170px;
+  top: 0;
+  object-fit: cover;
+  position: absolute;
+  left: 0;
+}
+
+.gest-citas .calendar-wrapper {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  top: 363px;
+  left: 129px;
+  background-color: #268063;
+  border-radius: 125px;
+}
+
+.gest-citas .calendar {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 50px;
+  left: 52px;
+}
+
+.gest-citas .citas-programadas {
+  left: 100px;
+  position: absolute;
+  width: 307px;
+  height: 120px;
+  top: 656px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 60px;
+}
+
+.gest-citas .book-wrapper {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  top: 935px;
+  left: 129px;
+  background-color: #802626;
+  border-radius: 125px;
+}
+
+.gest-citas .book {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 50px;
+  left: 52px;
+}
+
+.gest-citas .text-wrapper-20 {
+  position: absolute;
+  width: 249px;
+  height: 120px;
+  top: 1212px;
+  left: 129px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 60px;
+}
+
+.gest-citas .overlap-6 {
+  position: absolute;
+  width: 1097px;
+  height: 551px;
+  top: 533px;
+  left: 511px;
+}
+
+.gest-citas .background-3 {
+  position: absolute;
+  width: 1049px;
+  height: 503px;
+  top: 48px;
+  left: 48px;
+}
+
+.gest-citas .overlap-group {
+  position: absolute;
+  width: 480px;
+  height: 442px;
+  top: 55px;
+  left: 558px;
+}
+
+.gest-citas .group-3 {
+  position: absolute;
+  width: 480px;
+  height: 55px;
+  top: 0;
+  left: 0;
+}
+
+.gest-citas .m-s {
+  position: absolute;
+  top: 0;
+  left: 56px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 60px;
+}
+
+.gest-citas .m {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #802626;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 60px;
+}
+
+.gest-citas .m-wrapper {
+  position: absolute;
+  height: 35px;
+  top: 35px;
+  left: 32px;
+}
+
+.gest-citas .enter-text {
+  position: absolute;
+  width: 480px;
+  height: 442px;
+  top: 442px;
+  left: 48px;
+  font-family: var(--heading-2-font-family);
+  font-weight: var(--heading-2-font-weight);
+  color: var(--color-text-default-default);
+  font-size: var(--heading-2-font-size);
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  font-style: var(--heading-2-font-style);
+}
+.gest-citas .text-wrapper-21 {
+  position: absolute;
+  width: 466px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #268063;
+  font-size: 50px;
+  letter-spacing: -1px;
+  line-height: normal;
+}
+
+.gest-citas .line-3 {
+  position: absolute;
+  width: 953px;
+  height: 15px;
+  top: 31px;
+  left: 442px;
+}
+
+.gest-citas .select-field-2 {
+  display: flex;
+  flex-direction: column;
+  width: 254px;
+  align-items: flex-start;
+  gap: var(--size-space-200);
+  position: absolute;
+  top: 1374px;
+  left: 73px;
+}
+
+.gest-citas .accordion-item {
+  width: 1004px;
+  height: 100px;
+  padding: var(--size-padding-lg);
+  position: absolute;
+  top: 1391px;
+  left: 436px;
+  background-color: #80262675;
+  border-radius: var(--size-radius-200);
+  border: 1px solid;
+  border-color: var(--color-border-default-default);
+  display: flex;
+  align-items: center;
+}
+
+.gest-citas .accordion-title {
+  gap: var(--size-space-200);
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+}
+
+.gest-citas .title {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight);
+  color: var(--color-text-default-default);
+  font-size: var(--heading-font-size);
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  font-style: var(--heading-font-style);
+}
+
+.gest-citas .chevron-down-2 {
+  position: relative;
+  align-self: stretch;
+  width: 20px;
+}
+
+.gest-citas .overlap-7 {
+  position: absolute;
+  width: 1315px;
+  height: 436px;
+  top: 1627px;
+  left: 64px;
+  background-color: #d9d9d9;
+}
+
+.gest-citas .group-3 {
+  position: absolute;
+  width: 221px;
+  height: 100px;
+  top: 26px;
+  left: 30px;
+}
+
+.gest-citas .overlap-group-2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-color: #268063;
+  border-radius: 50px;
+}
+
+.gest-citas .text-wrapper-22 {
+  position: absolute;
+  width: 90px;
+  top: 20px;
+  left: 5px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .text-wrapper-23 {
+  top: 20px;
+  left: 105px;
+  color: #268063;
+  position: absolute;
+  width: 112px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.gest-citas .text-wrapper-24 {
+  top: 137px;
+  left: 18px;
+  color: #268063;
+  position: absolute;
+  width: 160px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .especialidad-5 {
+  width: 612px;
+  top: 40px;
+  left: 312px;
+  font-size: 30px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gest-citas .button-7 {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  width: 230px;
+  height: 54px;
+  padding: var(--size-space-300);
+  position: absolute;
+  top: 313px;
+  left: 312px;
+  background-color: #268063;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--color-border-brand-default);
+  align-items: center;
+  justify-content: center;
+  gap: var(--size-space-200);
+  border-radius: var(--size-radius-200);
+}
+
+.gest-citas .button-8 {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  width: 230px;
+  height: 54px;
+  padding: var(--size-space-300);
+  position: absolute;
+  top: 313px;
+  left: 557px;
+  background-color: #802626;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--color-border-brand-default);
+  align-items: center;
+  justify-content: center;
+  gap: var(--size-space-200);
+  border-radius: var(--size-radius-200);
+}
+
+.gest-citas .overlap-8 {
+  position: absolute;
+  width: 303px;
+  height: 54px;
+  top: 313px;
+  left: 900px;
+}
+
+.gest-citas .group-wrapper {
+  position: absolute;
+  width: 303px;
+  height: 54px;
+  top: 0;
+  left: 0;
+}
+
+.gest-citas .group-4 {
+  height: 54px;
+}
+
+.gest-citas .group-5 {
+  position: relative;
+  width: 305px;
+  height: 54px;
+}
+
+.gest-citas .text-wrapper-25 {
+  position: absolute;
+  width: 229px;
+  top: 12px;
+  left: 74px;
+  font-family: var(--heading-font-family);
+  font-weight: var(--heading-font-weight);
+  color: #268063;
+  font-size: var(--heading-font-size);
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  font-style: var(--heading-font-style);
+}
+
+.gest-citas .group-6 {
+  position: absolute;
+  width: 60px;
+  height: 54px;
+  top: 0;
+  left: 0;
+  background-color: #26806380;
+  border-radius: 7px;
+}
+
+.gest-citas .mail {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 3px;
+  left: 6px;
+}

@@ -1,0 +1,1184 @@
+.citas-mdicas {
+	background-color: #ffffff;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 100%;
+}
+
+.citas-mdicas .div {
+	background-color: #ffffff;
+	width: 1440px;
+	height: 2362px;
+	position: relative;
+}
+
+.citas-mdicas .navigation-footer {
+	position: absolute;
+	width: 1440px;
+	height: 264px;
+	top: 2098px;
+	left: 0;
+	background-color: #ffffff;
+}
+
+.citas-mdicas .items {
+	display: flex;
+	flex-direction: column;
+	width: 231px;
+	align-items: flex-end;
+	justify-content: center;
+	gap: var (--variable-collection-spacing-s);
+	position: absolute;
+	top: 48px;
+	left: 911px;
+}
+
+.citas-mdicas .text-wrapper {
+	position: relative;
+	align-self: stretch;
+	margin-top: -1px;
+	font-family: var (--small-text-font-family);
+	font-weight: var (--small-text-font-weight);
+	color: #000000;
+	font-size: var (--small-text-font-size);
+	letter-spacing: var (--small-text-letter-spacing);
+	line-height: var (--small-text-line-height);
+	font-style: var (--small-text-font-style);
+}
+
+.citas-mdicas .text-wrapper-2 {
+	position: relative;
+	align-self: stretch;
+	font-family: var (--small-text-font-family);
+	font-weight: var (--small-text-font-weight);
+	color: #444444;
+	font-size: var (--small-text-font-size);
+	letter-spacing: var (--small-text-letter-spacing);
+	line-height: var (--small-text-line-height);
+	font-style: var (--small-text-font-style);
+}
+
+.citas-mdicas .text-wrapper-3 {
+	position: relative;
+	align-self: stretch;
+	font-family: "Inter-Medium", Helvetica;
+ font-weight: 500;
+	color: #444444;
+	font-size: 16px;
+	letter-spacing: 0;
+	line-height: 24px;
+}
+
+.citas-mdicas .items-2 {
+	display: flex;
+	flex-direction: column;
+	width: 187px;
+	align-items: flex-end;
+	justify-content: center;
+	gap: var (--variable-collection-spacing-s);
+	position: absolute;
+	top: 48px;
+	left: 1173px;
+}
+
+.citas-mdicas .text-wrapper-4 {
+	position: absolute;
+	height: 36px;
+	top: 51px;
+	left: 80px;
+	font-family: "Inter-Regular", Helvetica;
+ font-weight: 400;
+	color: #000000;
+	font-size: 24px;
+	letter-spacing: 0;
+	line-height: 36px;
+	white-space: nowrap;
+}
+
+.citas-mdicas .social-icons {
+	display: inline-flex;
+	align-items: flex-start;
+	gap: var (--variable-collection-spacing-XS);
+	position: absolute;
+	top: 176px;
+	left: 80px;
+}
+
+.citas-mdicas .buttons-icon {
+	position: relative;
+	width: 40px;
+	height: 40px;
+	border-radius: 4px;
+}
+
+.citas-mdicas .icon {
+	position: relative;
+	width: 24px;
+	height: 24px;
+	top: 8px;
+	left: 8px;
+}
+
+.citas-mdicas .img {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 2px;
+	left: 2px;
+}
+
+.citas-mdicas .icon-2 {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	top: 3px;
+	left: 3px;
+}
+
+.citas-mdicas .icon-3 {
+	position: absolute;
+	width: 20px;
+	height: 14px;
+	top: 5px;
+	left: 2px;
+}
+
+.citas-mdicas .divider {
+	position: absolute;
+	width: 1280px;
+	height: 1px;
+	top: 0;
+	left: 80px;
+	object-fit: cover;
+}
+
+.citas-mdicas .overlap {
+	position: absolute;
+	width: 1440px;
+	height: 289px;
+	top: 0;
+	left: 0;
+}
+
+.citas-mdicas .page-title {
+	display: flex;
+	flex-direction: column;
+	width: 1270px;
+	align-items: center;
+	gap: 24px;
+	position: absolute;
+	top: 212px;
+	left: 85px;
+	background-color: #ffffff;
+}
+
+.citas-mdicas .portal-de-citas-m {
+	position: relative;
+	align-self: stretch;
+	margin-top: -1px;
+	font-family: "Inter-Bold", Helvetica;
+ font-weight: 700;
+	color: #444444;
+	font-size: 64px;
+	text-align: center;
+	letter-spacing: -1.28px;
+	line-height: normal;
+}
+
+.citas-mdicas .navigation {
+	position: absolute;
+	width: 1440px;
+	height: 222px;
+	top: 0;
+	left: 0;
+	background-color: #ffffff;
+}
+
+.citas-mdicas .button-wrapper {
+	display: inline-flex;
+	align-items: center;
+	justify-content: flex-end;
+	gap: var (--variable-collection-spacing-m);
+	position: absolute;
+	top: 56px;
+	left: 1209px;
+}
+
+.citas-mdicas .button {
+	all: unset;
+	box-sizing: border-box;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	padding: 14px 24px;
+	position: relative;
+	flex: 0 0 auto;
+	background-color: #802626;
+	border-radius: 8px;
+	box-shadow: var (--button-shadow);
+}
+
+.citas-mdicas .ingresar {
+	position: relative;
+	width: fit-content;
+	margin-top: -1px;
+	font-family: var (--small-text-font-family);
+	font-weight: var (--small-text-font-weight);
+	color: #ffffff;
+	font-size: var (--small-text-font-size);
+	letter-spacing: var (--small-text-letter-spacing);
+	line-height: var (--small-text-line-height);
+	white-space: nowrap;
+	font-style: var (--small-text-font-style);
+}
+
+.citas-mdicas .div-wrapper {
+	display: inline-flex;
+	align-items: center;
+	justify-content: flex-end;
+	gap: var (--variable-collection-spacing-m);
+	position: absolute;
+	top: 112px;
+	left: 1263px;
+}
+
+.citas-mdicas .ingresar-wrapper {
+	all: unset;
+	box-sizing: border-box;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	padding: 14px 24px;
+	position: relative;
+	flex: 0 0 auto;
+	background-color: #268063;
+	border-radius: 8px;
+	box-shadow: var (--button-shadow);
+}
+
+.citas-mdicas .group {
+	position: absolute;
+	width: 659px;
+	height: 170px;
+	top: 26px;
+	left: 392px;
+}
+
+.citas-mdicas .medi-connect {
+	position: absolute;
+	height: 105px;
+	top: 33px;
+	left: 180px;
+	font-family: "Kodchasan-Bold", Helvetica;
+ font-weight: 700;
+	color: transparent;
+	font-size: 70px;
+	letter-spacing: 0;
+	line-height: 105px;
+	white-space: nowrap;
+}
+
+.citas-mdicas .span {
+	color: #268063;
+}
+
+.citas-mdicas .text-wrapper-5 {
+	color: #802626;
+}
+
+.citas-mdicas .rectangle {
+	width: 170px;
+	height: 170px;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.citas-mdicas .overlap-group {
+	position: absolute;
+	width: 316px;
+	height: 271px;
+	top: 328px;
+	left: 130px;
+}
+
+.citas-mdicas .image {
+	width: 181px;
+	height: 198px;
+	top: 73px;
+	left: 67px;
+	position: absolute;
+	object-fit: cover;
+}
+
+.citas-mdicas .text-wrapper-6 {
+	position: absolute;
+	width: 316px;
+	height: 96px;
+	top: 0;
+	left: 0;
+	font-family: "Inter-Regular", Helvetica;
+ font-weight: 400;
+	color: #000000;
+	font-size: 32px;
+	text-align: center;
+	letter-spacing: 0;
+	line-height: 48px;
+}
+
+.citas-mdicas .image-2 {
+	width: 202px;
+	height: 158px;
+	top: 441px;
+	left: 568px;
+	position: absolute;
+	object-fit: cover;
+}
+
+.citas-mdicas .text-wrapper-7 {
+	position: absolute;
+	width: 1133px;
+	height: 36px;
+	top: 2024px;
+	left: 154px;
+	font-family: "Inter-Medium", Helvetica;
+ font-weight: 500;
+	color: #000000;
+	font-size: 24px;
+	letter-spacing: 0;
+	line-height: 36px;
+	white-space: nowrap;
+}
+
+.citas-mdicas .text-wrapper-8 {
+	position: absolute;
+	height: 48px;
+	top: 352px;
+	left: 562px;
+	font-family: "Inter-Regular", Helvetica;
+ font-weight: 400;
+	color: #000000;
+	font-size: 32px;
+	text-align: center;
+	letter-spacing: 0;
+	line-height: 48px;
+	white-space: nowrap;
+}
+
+.citas-mdicas .button-2 {
+	all: unset;
+	box-sizing: border-box;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: var (--size-space-200);
+	padding: var (--size-space-300);
+	position: absolute;
+	top: 611px;
+	left: 237px;
+	background-color: #268063;
+	border-radius: var (--size-radius-200);
+	overflow: hidden;
+	border: 1px solid;
+	border-color: var (--color-border-brand-default);
+}
+
+.citas-mdicas .button-3 {
+	all: unset;
+	box-sizing: border-box;
+	position: relative;
+	width: fit-content;
+	margin-top: -1px;
+	font-family: var (--single-line-body-base-font-family);
+	font-weight: var (--single-line-body-base-font-weight);
+	color: var (--color-text-brand-on-brand);
+	font-size: var (--single-line-body-base-font-size);
+	letter-spacing: var (--single-line-body-base-letter-spacing);
+	line-height: var (--single-line-body-base-line-height);
+	white-space: nowrap;
+	font-style: var (--single-line-body-base-font-style);
+}
+
+.citas-mdicas .button-4 {
+	all: unset;
+	box-sizing: border-box;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: var (--size-space-200);
+	padding: var (--size-space-300);
+	position: absolute;
+	top: 611px;
+	left: 624px;
+	background-color: #268063;
+	border-radius: var (--size-radius-200);
+	overflow: hidden;
+	border: 1px solid;
+	border-color: var (--color-border-brand-default);
+}
+
+.citas-mdicas .overlap-2 {
+	position: absolute;
+	width: 1440px;
+	height: 819px;
+	top: 738px;
+	left: 0;
+}
+
+.citas-mdicas .select-field {
+	display: flex;
+	flex-direction: column;
+	width: 523px;
+	height: 92px;
+	align-items: flex-start;
+	gap: var (--size-space-200);
+	position: absolute;
+	top: 199px;
+	left: 459px;
+}
+
+.citas-mdicas .label {
+	position: relative;
+	align-self: stretch;
+	margin-top: -1px;
+	font-family: var (--heading-font-family);
+	font-weight: var (--heading-font-weight);
+	color: var (--color-text-default-default);
+	font-size: var (--heading-font-size);
+	letter-spacing: var (--heading-letter-spacing);
+	line-height: var (--heading-line-height);
+	font-style: var (--heading-font-style);
+}
+
+.citas-mdicas .select {
+	display: flex;
+	min-width: 240px;
+	height: 42px;
+	align-items: center;
+	gap: var (--size-space-200);
+	padding: var (--size-space-300) var (--size-space-300) var (--size-space-300) var (--size-space-400);
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+	margin-left: -1px;
+	margin-right: -1px;
+	background-color: var (--color-background-default-default);
+	border-radius: var (--size-radius-200);
+	border: 1px solid;
+	border-color: var (--color-border-default-default);
+}
+
+.citas-mdicas .value {
+	position: relative;
+	flex: 1;
+	margin-top: -4.5px;
+	margin-bottom: -1.5px;
+	font-family: var (--subheading-font-family);
+	font-weight: var (--subheading-font-weight);
+	color: var (--color-text-default-default);
+	font-size: var (--subheading-font-size);
+	letter-spacing: var (--subheading-letter-spacing);
+	line-height: var (--subheading-line-height);
+	font-style: var (--subheading-font-style);
+}
+
+.citas-mdicas .chevron-down {
+	position: relative;
+	width: 16px;
+	height: 16px;
+}
+
+.citas-mdicas .overlap-group-2 {
+	position: absolute;
+	width: 1440px;
+	height: 819px;
+	top: 0;
+	left: 0;
+}
+
+.citas-mdicas .rectangle-2 {
+	width: 1440px;
+	height: 159px;
+	background-color: #268063;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.citas-mdicas .portal-de-citas-m-wrapper {
+	display: flex;
+	flex-direction: column;
+	width: 1143px;
+	align-items: center;
+	gap: 24px;
+	position: absolute;
+	top: 33px;
+	left: 149px;
+}
+
+.citas-mdicas .portal-de-citas-m-2 {
+	position: relative;
+	width: 1365px;
+	margin-top: -1px;
+	margin-left: -111px;
+	margin-right: -111px;
+	font-family: "Inter-Bold", Helvetica;
+ font-weight: 700;
+	color: #ffffff;
+	font-size: 64px;
+	text-align: center;
+	letter-spacing: -1.28px;
+	line-height: normal;
+}
+
+.citas-mdicas .accordion {
+	display: flex;
+	flex-direction: column;
+	width: 1188px;
+	align-items: flex-start;
+	gap: var (--size-space-400);
+	position: absolute;
+	top: 448px;
+	left: 126px;
+}
+
+.citas-mdicas .accordion-item {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: var (--size-space-200);
+	padding: var (--size-padding-lg);
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+	flex: 0 0 auto;
+	background-color: var (--color-background-default-default);
+	border-radius: var (--size-radius-200);
+	border: 1px solid;
+	border-color: var (--color-border-default-default);
+}
+
+.citas-mdicas .accordion-title {
+	display: flex;
+	align-items: center;
+	gap: var (--size-space-200);
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+	flex: 0 0 auto;
+}
+
+.citas-mdicas .title {
+	position: relative;
+	flex: 1;
+	margin-top: -1px;
+	font-family: var (--heading-font-family);
+	font-weight: var (--heading-font-weight);
+	color: var (--color-text-default-default);
+	font-size: var (--heading-font-size);
+	letter-spacing: var (--heading-letter-spacing);
+	line-height: var (--heading-line-height);
+	font-style: var (--heading-font-style);
+}
+
+.citas-mdicas .img-2 {
+	position: relative;
+	width: 20px;
+	height: 20px;
+}
+
+.citas-mdicas .accordion-content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+	flex: 0 0 auto;
+}
+
+.citas-mdicas .body {
+	position: relative;
+	flex: 1;
+	margin-top: -1px;
+	font-family: var (--body-base-font-family);
+	font-weight: var (--body-base-font-weight);
+	color: var (--color-text-default-default);
+	font-size: var (--body-base-font-size);
+	letter-spacing: var (--body-base-letter-spacing);
+	line-height: var (--body-base-line-height);
+	font-style: var (--body-base-font-style);
+}
+
+.citas-mdicas .accordion-title-wrapper {
+	display: flex;
+	align-items: center;
+	padding: var (--size-padding-lg);
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+	flex: 0 0 auto;
+	background-color: var (--color-background-default-secondary);
+	border-radius: var (--size-radius-200);
+	border: 1px solid;
+	border-color: var (--color-border-default-default);
+}
+
+.citas-mdicas .accordion-title-2 {
+	display: flex;
+	align-items: center;
+	gap: var (--size-space-200);
+	position: relative;
+	flex: 1;
+	flex-grow: 1;
+}
+
+.citas-mdicas .title-2 {
+	position: relative;
+	flex: 1;
+	margin-top: -1px;
+	font-family: var (--body-strong-font-family);
+	font-weight: var (--body-strong-font-weight);
+	color: var (--color-text-default-default);
+	font-size: var (--body-strong-font-size);
+	letter-spacing: var (--body-strong-letter-spacing);
+	line-height: var (--body-strong-line-height);
+	font-style: var (--body-strong-font-style);
+}
+
+.citas-mdicas .modal-date-picker {
+	display: flex;
+	flex-direction: column;
+	width: 360px;
+	height: 523px;
+	align-items: flex-start;
+	position: absolute;
+	top: 119px;
+	left: 1011px;
+	background-color: var (--m3-schemes-surface-container-high);
+	border-radius: 28px;
+	overflow: hidden;
+}
+
+.citas-mdicas .header {
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	gap: 8px;
+	padding: 16px 12px 12px 24px;
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+	flex: 0 0 auto;
+	background-color: transparent;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-color: var (--m3-schemes-outline-variant);
+}
+
+.citas-mdicas .label-and-date {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 36px;
+	position: relative;
+	flex: 1;
+	flex-grow: 1;
+}
+
+.citas-mdicas .supporting-text {
+	position: relative;
+	align-self: stretch;
+	height: 16px;
+	margin-top: -1px;
+	font-family: var (--m3-label-large-font-family);
+	font-weight: var (--m3-label-large-font-weight);
+	color: var (--m3-schemes-on-surface-variant);
+	font-size: var (--m3-label-large-font-size);
+	letter-spacing: var (--m3-label-large-letter-spacing);
+	line-height: var (--m3-label-large-line-height);
+	white-space: nowrap;
+	font-style: var (--m3-label-large-font-style);
+}
+
+.citas-mdicas .week-day-day {
+	position: relative;
+	align-self: stretch;
+	height: 40px;
+	font-family: var (--m3-headline-large-font-family);
+	font-weight: var (--m3-headline-large-font-weight);
+	color: var (--m3-schemes-on-surface);
+	font-size: var (--m3-headline-large-font-size);
+	letter-spacing: var (--m3-headline-large-letter-spacing);
+	line-height: var (--m3-headline-large-line-height);
+	white-space: nowrap;
+	font-style: var (--m3-headline-large-font-style);
+}
+
+.citas-mdicas .icon-button {
+	display: flex;
+	flex-direction: column;
+	width: 48px;
+	height: 48px;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	position: relative;
+}
+
+.citas-mdicas .container {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	position: relative;
+	flex: 0 0 auto;
+	border-radius: 100px;
+	overflow: hidden;
+}
+
+.citas-mdicas .state-layer {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	padding: 8px;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.citas-mdicas .icon-4 {
+	position: relative;
+	width: 24px;
+	height: 24px;
+}
+
+.citas-mdicas .local-selection-row {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 4px 12px 4px 16px;
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+	flex: 0 0 auto;
+}
+
+.citas-mdicas .building-blocks-menu {
+	display: inline-flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 10px;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.citas-mdicas .state-layer-2 {
+	display: inline-flex;
+	gap: 8px;
+	padding: 10px 4px 10px 8px;
+	flex: 0 0 auto;
+	border-radius: 100px;
+	overflow: hidden;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+
+.citas-mdicas .label-text {
+	position: relative;
+	width: fit-content;
+	font-family: var (--m3-label-large-font-family);
+	font-weight: var (--m3-label-large-font-weight);
+	color: var (--m3-schemes-on-surface-variant);
+	font-size: var (--m3-label-large-font-size);
+	text-align: center;
+	letter-spacing: var (--m3-label-large-letter-spacing);
+	line-height: var (--m3-label-large-line-height);
+	white-space: nowrap;
+	font-style: var (--m3-label-large-font-style);
+}
+
+.citas-mdicas .icon-5 {
+	position: relative;
+	width: 18px;
+	height: 18px;
+}
+
+.citas-mdicas .controls {
+	display: inline-flex;
+	align-items: flex-start;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.citas-mdicas .local-calendar-grid {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0px 12px;
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+	flex: 0 0 auto;
+}
+
+.citas-mdicas .div-2 {
+	display: flex;
+	height: 48px;
+	align-items: flex-start;
+	justify-content: center;
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+}
+
+.citas-mdicas .div-wrapper-2 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	position: relative;
+	flex: 1;
+	align-self: stretch;
+	flex-grow: 1;
+}
+
+.citas-mdicas .date {
+	position: relative;
+	width: fit-content;
+	font-family: var (--m3-body-large-font-family);
+	font-weight: var (--m3-body-large-font-weight);
+	color: var (--m3-schemes-on-surface);
+	font-size: var (--m3-body-large-font-size);
+	text-align: center;
+	letter-spacing: var (--m3-body-large-letter-spacing);
+	line-height: var (--m3-body-large-line-height);
+	white-space: nowrap;
+	font-style: var (--m3-body-large-font-style);
+}
+
+.citas-mdicas .container-wrapper {
+	gap: 8px;
+	padding: 4px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	flex: 1;
+	align-self: stretch;
+	flex-grow: 1;
+}
+
+.citas-mdicas .div-wrapper-3 {
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	width: 40px;
+	height: 40px;
+	gap: 10px;
+	position: relative;
+}
+
+.citas-mdicas .state-layer-3 {
+	display: flex;
+	width: 40px;
+	height: 40px;
+	gap: 10px;
+	padding: 10px;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+
+.citas-mdicas .empty-container {
+	position: relative;
+	width: 22px;
+	height: 24px;
+	margin-top: -2px;
+	margin-bottom: -2px;
+	margin-left: -1px;
+	margin-right: -1px;
+}
+
+.citas-mdicas .state-layer-wrapper {
+	align-items: center;
+	justify-content: center;
+	border-radius: 100px;
+	overflow: hidden;
+	display: flex;
+	width: 40px;
+	height: 40px;
+	gap: 10px;
+	position: relative;
+}
+
+.citas-mdicas .container-2 {
+	align-items: center;
+	justify-content: center;
+	border-radius: 100px;
+	overflow: hidden;
+	border: 1px solid;
+	border-color: var (--m3-schemes-primary);
+	display: flex;
+	width: 40px;
+	height: 40px;
+	gap: 10px;
+	position: relative;
+}
+
+.citas-mdicas .date-2 {
+	margin-top: -3px;
+	margin-bottom: -1px;
+	font-family: var (--m3-body-large-font-family);
+	font-weight: var (--m3-body-large-font-weight);
+	color: var (--m3-schemes-primary);
+	font-size: var (--m3-body-large-font-size);
+	letter-spacing: var (--m3-body-large-letter-spacing);
+	line-height: var (--m3-body-large-line-height);
+	position: relative;
+	width: fit-content;
+	text-align: center;
+	white-space: nowrap;
+	font-style: var (--m3-body-large-font-style);
+}
+
+.citas-mdicas .thursday {
+	flex-direction: column;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	position: relative;
+	flex: 1;
+	align-self: stretch;
+	flex-grow: 1;
+}
+
+.citas-mdicas .container-3 {
+	align-items: flex-start;
+	background-color: var (--m3-schemes-primary);
+	border-radius: 100px;
+	overflow: hidden;
+	display: flex;
+	width: 40px;
+	height: 40px;
+	gap: 10px;
+	position: relative;
+}
+
+.citas-mdicas .date-3 {
+	font-family: var (--m3-label-large-font-family);
+	font-weight: var (--m3-label-large-font-weight);
+	color: var (--m3-schemes-on-primary);
+	font-size: var (--m3-label-large-font-size);
+	letter-spacing: var (--m3-label-large-letter-spacing);
+	line-height: var (--m3-label-large-line-height);
+	position: relative;
+	width: fit-content;
+	text-align: center;
+	white-space: nowrap;
+	font-style: var (--m3-label-large-font-style);
+}
+
+.citas-mdicas .local-actions {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-around;
+	gap: 8px;
+	padding: 8px 12px 12px;
+	position: relative;
+	align-self: stretch;
+	width: 100%;
+	flex: 0 0 auto;
+}
+
+.citas-mdicas .button-container {
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-end;
+	gap: 8px;
+	position: relative;
+	flex: 1;
+	flex-grow: 1;
+}
+
+.citas-mdicas .seconday-button {
+	all: unset;
+	box-sizing: border-box;
+	display: inline-flex;
+	flex-direction: column;
+	height: 40px;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	position: relative;
+	flex: 0 0 auto;
+	border-radius: 100px;
+	overflow: hidden;
+}
+
+.citas-mdicas .label-text-wrapper {
+	display: flex;
+	gap: 8px;
+	padding: 10px 12px;
+	flex: 1;
+	align-self: stretch;
+	width: 100%;
+	flex-grow: 1;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+
+.citas-mdicas .label-text-2 {
+	position: relative;
+	width: fit-content;
+	margin-top: -1px;
+	font-family: var (--m3-label-large-font-family);
+	font-weight: var (--m3-label-large-font-weight);
+	color: var (--m3-schemes-primary);
+	font-size: var (--m3-label-large-font-size);
+	text-align: center;
+	letter-spacing: var (--m3-label-large-letter-spacing);
+	line-height: var (--m3-label-large-line-height);
+	white-space: nowrap;
+	font-style: var (--m3-label-large-font-style);
+}
+
+.citas-mdicas .primary-button {
+	display: inline-flex;
+	flex-direction: column;
+	height: 40px;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	position: relative;
+	flex: 0 0 auto;
+	border-radius: 100px;
+	overflow: hidden;
+}
+
+.citas-mdicas .button-5 {
+	all: unset;
+	box-sizing: border-box;
+	display: flex;
+	width: 194px;
+	height: 49px;
+	align-items: center;
+	justify-content: center;
+	gap: var (--size-space-200);
+	padding: var (--size-space-300);
+	position: absolute;
+	top: 348px;
+	left: 459px;
+	background-color: #268063;
+	border-radius: var (--size-radius-200);
+	overflow: hidden;
+	border: 1px solid;
+	border-color: var (--color-border-brand-default);
+}
+
+.citas-mdicas .button-6 {
+	all: unset;
+	box-sizing: border-box;
+	position: relative;
+	width: fit-content;
+	margin-top: -0.5px;
+	font-family: var (--subheading-font-family);
+	font-weight: var (--subheading-font-weight);
+	color: var (--color-text-brand-on-brand);
+	font-size: var (--subheading-font-size);
+	letter-spacing: var (--subheading-letter-spacing);
+	line-height: var (--subheading-line-height);
+	white-space: nowrap;
+	font-style: var (--subheading-font-style);
+}
+
+.citas-mdicas .overlap-3 {
+	position: absolute;
+	width: 294px;
+	height: 49px;
+	top: 348px;
+	left: 682px;
+	border-radius: 8px;
+}
+
+.citas-mdicas .button-7 {
+	all: unset;
+	box-sizing: border-box;
+	display: flex;
+	width: 294px;
+	height: 49px;
+	align-items: center;
+	gap: var (--size-space-200);
+	padding: var (--size-space-300);
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: #268063;
+	border-radius: var (--size-radius-200);
+	overflow: hidden;
+	border: 1px solid;
+	border-color: var (--color-border-brand-default);
+}
+
+.citas-mdicas .calendar {
+	position: absolute;
+	width: 45px;
+	height: 37px;
+	top: 6px;
+	left: 235px;
+}
+
+.citas-mdicas .text-wrapper-9 {
+	position: absolute;
+	width: 511px;
+	top: 303px;
+	left: 465px;
+	font-family: var (--heading-font-family);
+	font-weight: var (--heading-font-weight);
+	color: #000000;
+	font-size: var (--heading-font-size);
+	letter-spacing: var (--heading-letter-spacing);
+	line-height: var (--heading-line-height);
+	font-style: var (--heading-font-style);
+}
+
+.citas-mdicas .button-8 {
+	all: unset;
+	box-sizing: border-box;
+	display: flex;
+	width: 194px;
+	height: 49px;
+	align-items: center;
+	justify-content: center;
+	gap: var (--size-space-200);
+	padding: var (--size-space-300);
+	position: absolute;
+	top: 1924px;
+	left: 623px;
+	background-color: #268063;
+	border-radius: var (--size-radius-200);
+	overflow: hidden;
+	border: 1px solid;
+	border-color: var (--color-border-brand-default);
+}
+
+.citas-mdicas .accordion-2 {
+	display: flex;
+	flex-direction: column;
+	width: 1188px;
+	align-items: flex-start;
+	gap: var (--size-space-400);
+	position: absolute;
+	top: 1577px;
+	left: 126px;
+}
