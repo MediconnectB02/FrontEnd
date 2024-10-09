@@ -346,6 +346,45 @@
   font-style: var(--body-text-font-style);
 }
 
+.home .text-wrapper-10-0 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #000000;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-font-style);
+}
+
+.home .text-wrapper-10-1 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #000000;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-font-style);
+}
+
+.home .text-wrapper-10-2 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #000000;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-font-style);
+}
+
 .home .button {
   all: unset;
   box-sizing: border-box;
